@@ -8,6 +8,6 @@ ORACLE 19C新增的DBMS_CLOUD包， 初始配置只支持 ORACLE、亚马逊、�
 
 后续类型不断添加中（目前阿里云OSS不支持）  
 
-相关文章：
+相关文章：  
 https://www.darkathena.top/archives/dbmscloudrelated  
 https://www.darkathena.top/archives/dbmscloudjdcloudoss   
