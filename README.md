@@ -17,4 +17,5 @@ ORACLE 19C新增的DBMS_CLOUD包， 初始配置只支持 ORACLE、亚马逊、�
 相关文章：  
 https://www.darkathena.top/archives/dbmscloudrelated  
 https://www.darkathena.top/archives/dbmscloudjdcloudoss   
-https://oracle-base.com/articles/21c/dbms_cloud-package  
+https://www.darkathena.top/archives/dbmsclouduserpwd   
+https://oracle-base.com/articles/21c/dbms_cloud-package   
